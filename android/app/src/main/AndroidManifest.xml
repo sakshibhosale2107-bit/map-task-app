@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 <meta-data
    android:name="com.google.android.geo.API_KEY"
-   android:value="AIzaSyBpvQAADBp0NKbmRPvzlmYi1dAULQE9SSI"/>
+   android:value="API_KEY"/>
     <application
         android:label="map_task_app"
         android:name="${applicationName}"
